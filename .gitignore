@@ -1,0 +1,9 @@
+﻿build/
+.qtcreator/
+*.user
+*.user.*
+*.autosave
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
